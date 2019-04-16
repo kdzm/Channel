@@ -1,7 +1,7 @@
 import string
 import re
 import os
-from DPL频道列表模板 import list
+from DPL频道列表模板 import lists
 file=open("C:\\Users\\Administrator\\Desktop\\node\\宁夏有线.txt","r+",encoding='utf-8')
 f=file.read()
 p1=r'.+?,'
@@ -18,7 +18,7 @@ url=pattern2.findall(f)
 #with open('宁夏有线.dpl', 'a', encoding="utf-8") as f: f.write('DAUMPLAYLIST\n'+'playname=\n'+'topindex=27\n'+'saveplaypos=0')
 for u in url:
     j=url.index(u)
-    (x,y)=list(names[j],u)
+    (x,y)=lists(names[j],u)
     #with open('宁夏有线.dpl', 'a+', encoding="utf-8") as f: f.write(str(j+1)+x + "\n"+str(j+1)+y+"\n"+str(j+1)+'*played*0\n')
 file.close()
 os.system('C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Daum\\PotPlayer 64 bit.exe')
