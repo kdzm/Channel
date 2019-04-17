@@ -1,6 +1,6 @@
-DAUMPLAYLIST
-playname=
-topindex=27
+﻿DAUMPLAYLIST
+playname=http://32553.hlsplay.aodianyun.com/guangdianyun_32553/tv_channel_180.m3u8
+topindex=51
 saveplaypos=0
 1*file*http://ablive.abatv.com.cn:85/live/wypd.m3u8
 1*title*阿坝文艺频道HD
