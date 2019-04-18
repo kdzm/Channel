@@ -18,7 +18,7 @@ for x,y in lista.items():
     url2=url1.replace("\\","")
     urs.append(url2)
     print(x,url2)
-    with open('石家庄.html', 'a', encoding="utf-8") as f: f.write(x+url2)
+    with open('石家庄.html', 'a', encoding="utf-8") as f: f.write('<p>'+x+url2+'</p>\n')
 for u in urs:
     name=list(lista.keys())
     j = urs.index(u)
