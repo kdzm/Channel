@@ -1,6 +1,6 @@
-DAUMPLAYLIST
-playname=
-topindex=27
+﻿DAUMPLAYLIST
+playname=http://183.207.249.9/PLTV/3/224/3221225634/index.m3u8
+topindex=21
 saveplaypos=0
 1*file*http://183.207.249.9/PLTV/3/224/3221225530/1.m3u8
 1*title*CCTV-1高清

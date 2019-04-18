@@ -1,0 +1,16 @@
+﻿DAUMPLAYLIST
+playname=http://stream.sjzntv.cn/4/playlist.m3u8?_upt=ffc687281555579386
+topindex=0
+saveplaypos=0
+1*file*http://stream.sjzntv.cn/1/playlist.m3u8?_upt=160671f31555579384
+1*title*石家庄新闻
+1*played*0
+2*file*http://stream.sjzntv.cn/2/playlist.m3u8?_upt=1d705ec41555579385
+2*title*石家庄娱乐
+2*played*0
+3*file*http://stream.sjzntv.cn/3/playlist.m3u8?_upt=9641fcd01555579385
+3*title*石家庄生活
+3*played*0
+4*file*http://stream.sjzntv.cn/4/playlist.m3u8?_upt=ffc687281555579386
+4*title*石家庄都市
+4*played*0
