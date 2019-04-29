@@ -53,11 +53,14 @@ for l in listtype:
         name=name.replace(':1,"name":"','').replace('"','')
         channel_names.append(name)
 channels=dict(zip(channel_names,channel_ids))
+with open('bfgd.txt', 'w', encoding="utf-8") as f:f.write("")
 for j,k in channels.items():
     url='http://47.244.77.94:17000/byf2/'+k
+    url2='m3u8://47.244.77.94:17000/byf2/'+k
     if j=='CCTV-11':
         break
     print(j,url)
+    with open('bfgd.txt', 'a+', encoding="utf-8") as f:f.write(j+url+'  '+url2+'\n')
 #print(channels)
 '''for x,y in channels.items():
     print(x,y)
