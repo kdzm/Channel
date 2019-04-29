@@ -52,13 +52,17 @@ for l in listtype:
     for name in channel_name:
         name=name.replace(':1,"name":"','').replace('"','')
         channel_names.append(name)
-    channels=dict(zip(channel_names,channel_ids))
-print(channels)
+channels=dict(zip(channel_names,channel_ids))
+for j,k in channels.items():
+    url='http://47.244.77.94:17000/byf2/'+k
+    if j=='CCTV-11':
+        break
+    print(j,url)
+#print(channels)
 '''for x,y in channels.items():
     print(x,y)
 #得到频道名称和频道id
 '''
-
 n=random.randint(0,len(channel_name)-1)
 #print(n)
 deviceno=get_token('4200000081'+'yzw123')
@@ -78,6 +82,7 @@ for x,y in channels.items():
     n2=r.find('","',n1)
     playtoken=r[n1:n2]
     playurl='http://httpdvb.slave.bfgd.com.cn/playurl?playtype=live&protocol=http&accesstoken='+a_c+'&programid='+y+'&playtoken='+playtoken+'&verifycode='+verifycode
-    print(x,playurl)'''
+    print(x,playurl)
+'''
     #http://httpdvb.slave.bfgd.com.cn/playurl?playtype=live&protocol=http&accesstoken=R5CC27A56U3089D04BKB2D9E4F4I1993903DP8M316BC69WE276CCABF61&programid=4200000081&playtoken=31614VJHSLMFKWW10&rate=sd&verifycode=3000624372
 #get_accesstoken='http://access.bfgd.com.cn:12690/account/login?isforce=1&accesstoken=GD4C27A39V11307D1T1A205C5FJD43D0EABM7F8DDE8CI1993903D&accounttype=2&deviceno=4EA08CBF558007607004D93699A29423&pwd=96e79218965eb72c92a549dd5a330112&devicetype=3&account=40169031313'
