@@ -38,7 +38,7 @@ channel_names = []
 for l in listtype:
     idurl='http://slave.bfgd.com.cn:13160/homed/program/get_list?musicsize=246x138&label='+l+'&accesstoken='+a+'&pagenum=78&vodsize=246x138&chnlsize=90x90%7C246x138&pageidx=1&livesize=246x138&hdsize=246x138&appsize=246x138&sdsize=246x138'
     r1=geturl(idurl,headers=headers1)
-    print(r1)
+    #print(r1)
 #print(r1)
     p1=r'{"id":4200000[0-9]{3}'
     p2=r':1,"name":".+?"'
@@ -69,6 +69,7 @@ Deviceno1=deviceno.upper()
 dec=firstdevc(Deviceno=Deviceno1)#得到accessToken
 (a_c,verifycode)=access_token(devc1=dec)#得到access_token
 #print(a_c,verifycode)
+'''
 for x,y in channels.items():
     url3='http://slave.bfgd.com.cn:13160/media/channel/get_info?accesstoken='+a_c+'&chnlid='+channel_ids[0]+'&verifycode='+verifycode
     r=geturl(url3,headers=headers1)
@@ -77,6 +78,6 @@ for x,y in channels.items():
     n2=r.find('","',n1)
     playtoken=r[n1:n2]
     playurl='http://httpdvb.slave.bfgd.com.cn/playurl?playtype=live&protocol=http&accesstoken='+a_c+'&programid='+y+'&playtoken='+playtoken+'&verifycode='+verifycode
-    print(x,playurl)
+    print(x,playurl)'''
     #http://httpdvb.slave.bfgd.com.cn/playurl?playtype=live&protocol=http&accesstoken=R5CC27A56U3089D04BKB2D9E4F4I1993903DP8M316BC69WE276CCABF61&programid=4200000081&playtoken=31614VJHSLMFKWW10&rate=sd&verifycode=3000624372
 #get_accesstoken='http://access.bfgd.com.cn:12690/account/login?isforce=1&accesstoken=GD4C27A39V11307D1T1A205C5FJD43D0EABM7F8DDE8CI1993903D&accounttype=2&deviceno=4EA08CBF558007607004D93699A29423&pwd=96e79218965eb72c92a549dd5a330112&devicetype=3&account=40169031313'

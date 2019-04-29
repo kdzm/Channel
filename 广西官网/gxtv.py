@@ -19,7 +19,7 @@ for x in chlist.keys():
     #print(cid,token)
     t0=time.perf_counter()
     rurl='http://tv.gxtv.cn/player/?cid='+cid+'&token='+token
-    t0 = time.perf_counter()
+    t1 = time.perf_counter()
     #print(rurl)
     r2=geturl(rurl,headers=headers)
     #print(r2)
@@ -33,7 +33,7 @@ for x in chlist.keys():
     z2=r2.find('"',z1)
     WsTime=r2[z1:z2]
     #t0=time.perf_counter()
-    playurl='http://zb.gxtv.cn/live/nn_live'+Video_Fluent+'.flv?wsSecret='+WsSecret+'&wsTime='+WsTime+'&temp_time='+str(t0)
+    playurl='http://zb.gxtv.cn/live/nn_live'+Video_Fluent+'.flv?wsSecret='+WsSecret+'&wsTime='+WsTime+'&temp_time='+str(t1)
     print(x,playurl)
 t=time.time()
 tx=t*1000
