@@ -3,7 +3,7 @@ import re
 import os
 from DPL频道列表模板 import lists
 import subprocess
-file=open("C:\\Users\\Administrator\\Desktop\\node\\辽宁抚顺联通.txt","r+",encoding='utf-8')
+file=open("C:\\Users\\Administrator\\Desktop\\node\\辽宁联通IPTV.txt","r+",encoding='utf-8')
 f=file.read()
 p1=r'.+?,'
 pattern1=re.compile(p1)
@@ -20,11 +20,12 @@ url=pattern2.findall(f)
 #print(len(names))
 #print(url)
 #print(names)
-with open('辽宁抚顺联通.dpl', 'a', encoding="utf-8") as f: f.write('DAUMPLAYLIST\n'+'playname=\n'+'topindex=27\n'+'saveplaypos=0\n')
+with open('辽宁联通IPTV.dpl', 'w', encoding="utf-8") as f: f.write('')
+with open('辽宁联通IPTV.dpl', 'a', encoding="utf-8") as f: f.write('DAUMPLAYLIST\n'+'playname=\n'+'topindex=27\n'+'saveplaypos=0\n')
 for u in url:
     j=url.index(u)
     (x,y)=lists(names[j],u)
-    with open('辽宁抚顺联通.dpl', 'a+', encoding="utf-8") as f: f.write(str(j+1)+x + "\n"+str(j+1)+y+"\n"+str(j+1)+'*played*0\n')
+    with open('辽宁联通IPTV.dpl', 'a+', encoding="utf-8") as f: f.write(str(j+1)+x + "\n"+str(j+1)+y+"\n"+str(j+1)+'*played*0\n')
 file.close()
 os.system('C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Daum\\PotPlayer 64 bit.exe')
-os.system('C:\\Users\\Administrator\\PycharmProjects\\频道破解\\辽宁\\辽宁抚顺联通.dpl')
+os.system('C:\\Users\\Administrator\\PycharmProjects\\频道破解\\辽宁\\辽宁联通IPTV.dpl')
