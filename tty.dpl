@@ -1,6 +1,6 @@
 ﻿DAUMPLAYLIST
-playname=http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5CA2B7CAU3090C010K77540044IFB84556FPBM3220A5DV1044EZ33519WE22942B42A1&&playtoken=&programid=4200000325.m3u8
-topindex=62
+playname=http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5CA2B7CAU3090C010K77540044IFB84556FPBM3220A5DV1044EZ33519WE22942B42A1&&playtoken=&programid=4200000324.m3u8
+topindex=98
 saveplaypos=0
 1*file*http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5CA2B7CAU3090C010K77540044IFB84556FPBM3220A5DV1044EZ33519WE22942B42A1&&playtoken=&programid=4200000001.m3u8
 1*title*大连1
