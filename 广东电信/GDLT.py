@@ -30,3 +30,4 @@ file.close()
 os.system('C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Daum\\PotPlayer 64 bit.exe')
 os.system('C:\\Users\\Administrator\\PycharmProjects\\频道破解\\广东电信\\GDLT.dpl')
 #http://hls51-o.kascend.com/chushou_live/635e368b56234584bc64ff8422f443c6.m3u8  翡翠台
+#http://116.199.5.51:8114/index.m3u8?Fsv_chan_hls_se_idx=10&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
