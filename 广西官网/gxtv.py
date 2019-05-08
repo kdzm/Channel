@@ -10,7 +10,7 @@ for x in chlist.keys():
     headers={'Referer':url,'User-Agent':'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.0 Safari/537.36 Edg/75.0.14'}
     r=geturl(url,headers=headers)
     #if x=='广西综艺':
-    #print(r)
+        #print(r)
     n1=r.find("cid': '")+len("cid': '")
     n2=r.find("'",n1)
     n3=r.find("token': '")+len("token': '")
