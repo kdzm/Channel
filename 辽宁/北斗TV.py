@@ -43,4 +43,4 @@ for m in list2:
     (x,y)=lists(name2[j],m)
     with open('北斗TV.dpl', 'a+', encoding="utf-8") as f: f.write(str(j + 1) + x + "\n" + str(j + 1) + y + "\n" + str(j + 1) + '*played*0\n')
 os.system('C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Daum\\PotPlayer 64 bit.exe')
-os.system('C:\\Users\\Administrator\\PycharmProjects\\频道破解\\辽宁\\北斗TV.dpl')
+os.system('C:\\Users\\Administrator\\PycharmProjects\\Channel\\辽宁\\北斗TV.dpl')
