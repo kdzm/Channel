@@ -12,6 +12,6 @@ n1=re.findall(r'http:\\/\\/m3u8.nntv.cn.+?.m3u8',r)
 id=re.findall(r'"id":"[0-9]{7}',r)
 for x in id:
     n=id.index(x)
-    n1[n]=x.replace('"id":"','')+"   "+n1[n].replace('\\','')
+    n1[n]='http://cc.linkinme.com/nanning/'+x.replace('"id":"','')+"   "+n1[n].replace('\\','')
     print(n1[n])
 #   rtmp://180.141.89.20/live/HXTV横县电视台     rtmp://180.141.89.20/live/MSTV马山电视台

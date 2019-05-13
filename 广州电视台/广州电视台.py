@@ -14,7 +14,7 @@ for x,y in chl.items():
     n1=r.find("standardUrl='")+len("standardUrl='")
     n2=r.find("'",n1)
     playurl=r[n1:n2]
-    print(x,playurl)
+    print('http://cc.linkinme.com/guangzhou/'+y+x,playurl)
     playurls.append(playurl)
 name=list(chl.keys())
 with open('广州.dpl', 'w', encoding="utf-8") as f: f.write('')
@@ -24,4 +24,4 @@ for u in playurls:
     (x,y)=lists(name[j],u)
     with open('广州.dpl', 'a+', encoding="utf-8") as f: f.write(str(j + 1) + x + "\n" + str(j + 1) + y + "\n" + str(j + 1) + '*played*0\n')
 os.system('C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Daum\\PotPlayer 64 bit\\PotPlayer 64 bit.exe')
-os.system('C:\\Users\\Administrator\\PycharmProjects\\Channel\\广州电视台\\广州.dpl')
+os.system('C:\\Users\\Administrator\\PycharmProjects\\频道破解\\广州电视台\\广州.dpl')
