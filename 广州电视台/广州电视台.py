@@ -25,3 +25,13 @@ for u in playurls:
     with open('广州.dpl', 'a+', encoding="utf-8") as f: f.write(str(j + 1) + x + "\n" + str(j + 1) + y + "\n" + str(j + 1) + '*played*0\n')
 os.system('C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Daum\\PotPlayer 64 bit\\PotPlayer 64 bit.exe')
 os.system('C:\\Users\\Administrator\\PycharmProjects\\频道破解\\广州电视台\\广州.dpl')
+print(len('2d821d7e8dd09be48018c2bf1318448520ba7d86ed51905866dc6bc2c6071147'))
+'''
+http://cc.linkinme.com/guangzhou/5c7f7072e4b01c17db18fbd5    广州综合   
+http://cc.linkinme.com/guangzhou/5c7f6f73e4b01c17db18fbd3    广州新闻
+http://cc.linkinme.com/guangzhou/5c7f7097e4b01c17db18fbd7    广州经济
+http://cc.linkinme.com/guangzhou/5c7f70b7e4b01c17db18fbd9    广州竞赛
+http://cc.linkinme.com/guangzhou/5c7f70dce4b01c17db18fbdb    广州影视
+http://cc.linkinme.com/guangzhou/5c7f711de4b01c17db18fbdf    广州少儿
+http://cc.linkinme.com/guangzhou/5c7f70fee4b01c17db18fbdd    广州生活
+'''

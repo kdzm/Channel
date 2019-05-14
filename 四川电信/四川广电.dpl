@@ -1,6 +1,6 @@
-DAUMPLAYLIST
-playname=
-topindex=27
+﻿DAUMPLAYLIST
+playname=http://60.255.48.134:9090/live/cctv1hd_4000.m3u8
+topindex=0
 saveplaypos=0
 1*file*http://60.255.48.134:9090/live/cctv1hd_4000.m3u8
 1*title*CCTV1HD
