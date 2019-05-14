@@ -11,24 +11,55 @@ class1={'一起看':'2000000110'}
 a=[]
 b=[]
 playurl=[]
+def QQliveClass():
+    r=geturl(qq,headers=headers)
+    #print(r)
+    layoutid=re.findall(r'a href="/livelist\?layoutid=.+?"',r)
+    titles=re.findall(r'target="_blank" title=".+?"',r)
+    for x in layoutid:
+        layoutid[layoutid.index(x)]=x.replace('a href="/livelist?layoutid=','').replace('"','')
+    for y in titles:
+        titles[titles.index(y)]=y.replace('target="_blank" title="','').replace('"','')
+    d=dict(zip(titles,layoutid))
+    for x,y in d.items():
+        print(x,y)
+    return d
+    #print(r)
+m=QQliveClass()
+for i,j in m.items():
+    print(i)
+    urls='https://egame.qq.com/livelist?layoutid='+j
+    r=geturl(urls,headers=headers)
+    #print(r)
+    p1=r'a href="/.+?"'
+    p2=r'target="_blank" title=".+?"'
+    pattern1=re.compile(p1)
+    pattern2=re.compile(p2)
 for i in class1.values():
     listurl='https://egame.qq.com/livelist?layoutid='+i
     r=geturl(listurl,headers=headers)
-    p1=r'data-v-93e92c10><a href="/.+?"'
+    #print(r)
+    p1=r'a href="/.+?"'
     p2=r'target="_blank" title=".+?"'
     pattern1=re.compile(p1)
     pattern2=re.compile(p2)
     namers=pattern1.findall(r)
+    #print(namers)
+    del(namers[0])
     ids=pattern2.findall(r)
+    #print(len(namers))
+    #print(len(ids))
 #print(namers)
 for x in namers:
-    x=x.replace('data-v-93e92c10><a href="/','').replace('"','')
+    x=x.replace('a href="/','').replace('"','')
     a.append(x)
 for y in ids:
     y=y.replace('target="_blank" title="','').replace('"','')
     b.append(y)
 d=dict(zip(a,b))
+
 for x,y in d.items():
+    #print(x,y)
     rurl='https://egame.qq.com/'+x
     ru=geturl(rurl,headers=headers)
     '''

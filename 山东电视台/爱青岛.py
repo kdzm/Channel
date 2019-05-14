@@ -6,7 +6,13 @@ from DPL频道列表模板 import lists
 headers={'User-Agent':'Dalvik/1.6.0 (Linux; U; Android 8.1.0; QABOX_1 Build/KOT49H)'}
 channels={'QTV-1':'78243592032538624515160887874fd1319af774e3b885d6c1642b7c2744f1bb36d497e48e63221de13bc4b94203','QTV-2':'7824358725187092531516088768335a979d9f92cadf3d66d1a47b0d0b5bfe4b850cdc4401bd16721f085d219820','QTV-3':'7824358178837053491516088800c2a6e7471865d7f7ad0061dc708a5c89a5d0b21c8ce11f9052b4c9eee6b4bbcb','QTV-4':'782435770118971397151608881040ad7542ba8cfdcb49e3015076823fdf52fb1b9d8f96d82f661779492c35e79a','QTV-5':'7824357233608704051516088823a12573b94341d837f310b2fc333231793de5c0eba02494a57e198f481e5a52bc','QTV-6':'782435677038977029151608883491d373c6f493807262ba2b16c27e7e7dde8d63c06c2fda8ef60d951081d00985'}
 playurls=[]
-print(len('7b63695b7fab87ddc6a7d7d8d8ec8629167f459369cdf87d59ad00bc24206065'))
+print(len('9f6542743738e4e4191ef2de0e5892a335e147303f43cf52844add9eea83f14e'))
+t=str(int(time.time()))
+sg='http://v2.91kds.cn/c9/sdqdtv.m3u8?id=sdqdtv4&app=org.jykds.tvlive&version=1.9.7&mac=ec:01:ee:17:ce:8a&nwtime='+t+'&ev=20180910'
+sign=get_token(message=sg)
+print(t,sign)
+sg='http://egg.cluster.feiyunbox.com/key/iqd?key=qtv1at&v=3&tm='+t+'&sign='+sign
+print(sg)
 with open('QTV.dpl', 'w', encoding="utf-8") as f: f.write('')
 with open('QTV.dpl', 'a', encoding="utf-8") as f: f.write('DAUMPLAYLIST\n'+'playname=\n'+'topindex=27\n'+'saveplaypos=0'+'\n')
 for x,y in channels.items():
@@ -46,3 +52,7 @@ os.system('C:\\Users\\Administrator\\PycharmProjects\\频道破解\\山东电视
 #http://yingyong.aiqd.com.cn/api/v4/telecasts/channels/iqingdao?uid=0&platform=2&client_ver=5.0.2&device_id=4438189f768ead5289109fb813c4b447&type=1&channel_id=782435770118971397&timestamp=1557733582&city_id=370200&nonce=123456&openid=0&client_id=370200&signature=15c0cd00d8a7fd6c16cf9a3a35c6fe7a246cc66f0f97b520d232f818b0ba7a6a&deviceId=4438189f768ead5289109fb813c4b447   QTV-4
 #http://yingyong.aiqd.com.cn/api/v4/telecasts/channels/iqingdao?uid=0&platform=2&client_ver=5.0.2&device_id=4438189f768ead5289109fb813c4b447&type=1&channel_id=782435723360870405&timestamp=1557733621&city_id=370200&nonce=123456&openid=0&client_id=370200&signature=73f753a10b9e26a49498516e16cc36c48478ca414760259b796012e6f29e24fa&deviceId=4438189f768ead5289109fb813c4b447   QTV-5
 #http://yingyong.aiqd.com.cn/api/v4/telecasts/channels/iqingdao?uid=0&platform=2&client_ver=5.0.2&device_id=4438189f768ead5289109fb813c4b447&type=1&channel_id=782435677038977029&timestamp=1557733647&city_id=370200&nonce=123456&openid=0&client_id=370200&signature=e8115b2de0f04553c1f5c82cd49c502aad6a2e8c21a2f367270a8d1df157cbfe&deviceId=4438189f768ead5289109fb813c4b447   QTV-6
+#http://v2.91kds.cn/c9/sdqdtv.m3u8?id=sdqdtv3&app=org.jykds.tvlive&version=1.9.7&mac=ec:01:ee:17:ce:8a&nwtime=1557800601&sign=caefc5305bd12a889d8634fa8f9a083b&ev=20180910
+#http://v2.91kds.cn/c9/sdqdtv.m3u8?id=sdqdtv4&app=org.jykds.tvlive&version=1.9.7&mac=ec:01:ee:17:ce:8a&nwtime=1557800685&sign=3612742e1753da34a3c752dcd3477706&ev=20180910
+#http://v2.91kds.cn/c9/sdqdtv.m3u8?id=sdqdtv4&app=org.jykds.tvlive&version=1.9.7&mac=ec:01:ee:17:ce:8a&nwtime=1557800894&sign=abac90c01426c4e2c0b654135ecc175d&ev=20180910
+#a712e8087705bdbdfd08c77a4ac9e7ae
