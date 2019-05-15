@@ -6,6 +6,7 @@ from requestget import geturl
 #http://47.95.69.248/gslb/live?stream_id=cctv3&region=310000&isp=telecom&uuid=1w9e8ex5-uo4j-k1h6-e5d2-olkclokyegoh&ver=1.0.8
 import time
 from 咪咕视频.mgchaclass import mgreurl
+headers={'User-Agent':'Mozilla/5.0 (iPhone; CPU iPhone OS 8_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Mobile/12F70 MicroMessenger/6.2.3 NetType/WIFI Language/zh_CN'}
 
 '''
 t=int(time.time())
@@ -22,3 +23,5 @@ print(playurl)'''
 a=mgreurl()
 for x,y in a.items():
     print(x,y)
+r=geturl(y,headers=headers)
+print(r)

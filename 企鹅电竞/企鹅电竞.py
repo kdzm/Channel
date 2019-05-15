@@ -56,4 +56,4 @@ for u in playurls:
     (x,y)=lists(room_name[j], u)
     with open('一起看.dpl', 'a+', encoding="utf-8") as f: f.write(str(j + 1) + x + "\n" + str(j + 1) + y + "\n" + str(j + 1) + '*played*0\n')
 os.system('C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Daum\\PotPlayer 64 bit.exe')
-os.system('C:\\Users\\Administrator\\PycharmProjects\\频道破解\\企鹅电竞\\一起看.dpl')
+os.system('C:\\Users\\Administrator\\PycharmProjects\\Channel\\企鹅电竞\\一起看.dpl')

@@ -28,4 +28,5 @@ for u in playurls:
     (x,y)=lists(b[j], u)
     with open('游戏放映室.dpl', 'a+', encoding="utf-8") as f: f.write(str(j + 1) + x + "\n" + str(j + 1) + y + "\n" + str(j + 1) + '*played*0\n')
 os.system('C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Daum\\PotPlayer 64 bit.exe')
-os.system('C:\\Users\\Administrator\\PycharmProjects\\频道破解\\战旗直播\\游戏放映室.dpl')
+os.system('C:\\Users\\Administrator\\PycharmProjects\\Channel\\战旗直播\\游戏放映室.dpl')
+#http://www.zgrqq.top/pptv/live.m3u8?id=300161

@@ -33,5 +33,5 @@ http://cc.linkinme.com/guangzhou/5c7f7097e4b01c17db18fbd7    广州经济
 http://cc.linkinme.com/guangzhou/5c7f70b7e4b01c17db18fbd9    广州竞赛
 http://cc.linkinme.com/guangzhou/5c7f70dce4b01c17db18fbdb    广州影视
 http://cc.linkinme.com/guangzhou/5c7f711de4b01c17db18fbdf    广州少儿
-http://cc.linkinme.com/guangzhou/5c7f70fee4b01c17db18fbdd    广州生活
+http://cc.linkinme.com/guangzhou/5c7f70fee4b01c17db18fbdd   广州生活
 '''
