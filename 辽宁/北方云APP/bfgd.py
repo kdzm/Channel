@@ -26,6 +26,7 @@ def access_token(devc1=firstdevc()):
     n1=r3.find('"access_token" : "')+len('"access_token" : "')
     n2=r3.find('",',n1)
     access_tokens=r3[n1:n2]
+    print(access_tokens)
     n3=r3.find('"device_id" : ')+len('"device_id" : ')
     n4=r3.find(',',n3)
     verifycode =r3[n3:n4]
