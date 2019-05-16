@@ -4,7 +4,7 @@ import requests
 from DPL频道列表模板 import lists
 import re
 import os
-file=file=open("C:\\Users\\Administrator\\PycharmProjects\\频道破解\\企鹅电竞\\一起看搜集.txt","r+",encoding='utf-8')
+file=open("C:\\Users\\Administrator\\PycharmProjects\\频道破解\\企鹅电竞\\一起看搜集.txt","r+",encoding='utf-8')
 f=file.read()
 qq='https://egame.qq.com/gamelist'
 headers={'referer':'https://egame.qq.com/gamelist/1','user-agent':'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36','cookie':'pgv_pvi=9228730368; RK=r/S1yN41FW; ptcz=39b8c9638510908e7a35e3b4165e9f21dd7046db334b26a3348992043178e0c9; pgv_pvid=2950126576; tvfe_boss_uuid=d5395c453ab400ae; o_cookie=1322093265; pac_uid=1_1322093265; pgg_pvid=184977408019050810; new_device=1; sensorsdata2015jssdkcross=%7B%22distinct_id%22%3A%2216a958239e43b7-043da707ff527c-6353160-2073600-16a958239e54c4%22%2C%22%24device_id%22%3A%2216a958239e43b7-043da707ff527c-6353160-2073600-16a958239e54c4%22%2C%22props%22%3A%7B%22%24latest_traffic_source_type%22%3A%22%E8%87%AA%E7%84%B6%E6%90%9C%E7%B4%A2%E6%B5%81%E9%87%8F%22%2C%22%24latest_referrer%22%3A%22https%3A%2F%2Fwww.baidu.com%2Flink%22%2C%22%24latest_referrer_host%22%3A%22www.baidu.com%22%2C%22%24latest_search_keyword%22%3A%22%E6%9C%AA%E5%8F%96%E5%88%B0%E5%80%BC%22%7D%7D; pgv_si=s1035228160; uin=o1322093265; skey=@MIkiAqUvt; ptisp=ctc; pgg_ssid=14551961619051609; SL_GWPT_Show_Hide_tmp=1; SL_wptGlobTipTmp=1'}

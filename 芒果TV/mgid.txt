@@ -1,0 +1,538 @@
+#EXTM3U
+#EXTINF:-1,新频道 - http://47.95.172.168/channel/1089.m3u8
+http://47.95.172.168/channel/1089.m3u8
+#EXTINF:-1,新频道 - http://47.95.172.168/channel/1084.m3u8
+http://47.95.172.168/channel/1084.m3u8
+#EXTINF:-1,新频道 - http://47.95.172.168/channel/1088.m3u8
+http://47.95.172.168/channel/1088.m3u8
+#EXTINF:-1,新频道 - http://47.95.172.168/channel/1093.m3u8
+http://47.95.172.168/channel/1093.m3u8
+#EXTINF:-1,新频道 - http://47.95.172.168/channel/1083.m3u8
+http://47.95.172.168/channel/1083.m3u8
+#EXTINF:-1,新频道 - http://47.95.172.168/channel/1095.m3u8
+http://47.95.172.168/channel/1095.m3u8
+#EXTINF:-1,新频道 - http://47.95.172.168/channel/1092.m3u8
+http://47.95.172.168/channel/1092.m3u8
+#EXTINF:-1,新频道 - http://47.95.172.168/channel/1114.m3u8
+http://ott.liveapi.mgtv.com/v1/epg/turnplay/getLivePlayUrlM3u8?platform=3&definition=??&ticket=&buss_id=1000014&device_id=098d061771538d551af94afdadb7e996&mac_id=BC-7F-E8-91-AD-51&uuid=mgtvmac&after_day=1&license===&net_id=&type=3&channel_id=1114&version=5.5.115.200.2.DBEI.0.0_Release
+http://47.95.172.168/channel/1114.m3u8
+#EXTINF:-1,新频道 - http://47.95.172.168/channel/1106.m3u8
+http://ott.liveapi.mgtv.com/v1/epg/turnplay/getLivePlayUrlM3u8?platform=3&definition=??&ticket=&buss_id=1000014&device_id=098d061771538d551af94afdadb7e996&mac_id=BC-7F-E8-91-AD-51&uuid=mgtvmac&after_day=1&license===&net_id=&type=3&channel_id=1106&version=5.5.115.200.2.DBEI.0.0_Release
+http://47.95.172.168/channel/1106.m3u8
+#EXTINF:-1,新频道 - http://47.95.172.168/channel/1105.m3u8
+http://ott.liveapi.mgtv.com/v1/epg/turnplay/getLivePlayUrlM3u8?platform=3&definition=??&ticket=&buss_id=1000014&device_id=098d061771538d551af94afdadb7e996&mac_id=BC-7F-E8-91-AD-51&uuid=mgtvmac&after_day=1&license===&net_id=&type=3&channel_id=1105&version=5.5.115.200.2.DBEI.0.0_Release
+http://47.95.172.168/channel/1105.m3u8
+#EXTINF:-1,新频道 - http://47.95.172.168/channel/1184.m3u8
+http://ott.liveapi.mgtv.com/v1/epg/turnplay/getLivePlayUrlM3u8?platform=3&definition=??&ticket=&buss_id=1000014&device_id=098d061771538d551af94afdadb7e996&mac_id=BC-7F-E8-91-AD-51&uuid=mgtvmac&after_day=1&license===&net_id=&type=3&channel_id=1184&version=5.5.115.200.2.DBEI.0.0_Release
+http://47.95.172.168/channel/1184.m3u8
+#EXTINF:-1,新频道 - http://47.95.172.168/channel/1185.m3u8
+http://ott.liveapi.mgtv.com/v1/epg/turnplay/getLivePlayUrlM3u8?platform=3&definition=??&ticket=&buss_id=1000014&device_id=098d061771538d551af94afdadb7e996&mac_id=BC-7F-E8-91-AD-51&uuid=mgtvmac&after_day=1&license===&net_id=&type=3&channel_id=1185&version=5.5.115.200.2.DBEI.0.0_Release
+http://47.95.172.168/channel/1185.m3u8
+#EXTINF:-1,新频道 - http://47.95.172.168/channel/1190.m3u8
+http://ott.liveapi.mgtv.com/v1/epg/turnplay/getLivePlayUrlM3u8?platform=3&definition=??&ticket=&buss_id=1000014&device_id=098d061771538d551af94afdadb7e996&mac_id=BC-7F-E8-91-AD-51&uuid=mgtvmac&after_day=1&license===&net_id=&type=3&channel_id=1190&version=5.5.115.200.2.DBEI.0.0_Release
+http://47.95.172.168/channel/1190.m3u8
+#EXTINF:-1,新频道 - http://47.95.172.168/channel/1201.m3u8
+http://ott.liveapi.mgtv.com/v1/epg/turnplay/getLivePlayUrlM3u8?platform=3&definition=??&ticket=&buss_id=1000014&device_id=098d061771538d551af94afdadb7e996&mac_id=BC-7F-E8-91-AD-51&uuid=mgtvmac&after_day=1&license===&net_id=&type=3&channel_id=1201&version=5.5.115.200.2.DBEI.0.0_Release
+http://47.95.172.168/channel/1201.m3u8
+#EXTINF:-1,新频道 - http://47.95.172.168/channel/1200.m3u8
+http://ott.liveapi.mgtv.com/v1/epg/turnplay/getLivePlayUrlM3u8?platform=3&definition=??&ticket=&buss_id=1000014&device_id=098d061771538d551af94afdadb7e996&mac_id=BC-7F-E8-91-AD-51&uuid=mgtvmac&after_day=1&license===&net_id=&type=3&channel_id=1201&version=5.5.115.200.2.DBEI.0.0_Release
+http://47.95.172.168/channel/1200.m3u8
+#EXTINF:-1,新频道 - http://47.95.172.168/channel/1202.m3u8
+http://ott.liveapi.mgtv.com/v1/epg/turnplay/getLivePlayUrlM3u8?platform=3&definition=??&ticket=&buss_id=1000014&device_id=098d061771538d551af94afdadb7e996&mac_id=BC-7F-E8-91-AD-51&uuid=mgtvmac&after_day=1&license===&net_id=&type=3&channel_id=1202&version=5.5.115.200.2.DBEI.0.0_Release
+http://47.95.172.168/channel/1202.m3u8
+#EXTINF:-1,新频道 - http://47.95.172.168/channel/1215.m3u8
+http://ott.liveapi.mgtv.com/v1/epg/turnplay/getLivePlayUrlM3u8?platform=3&definition=??&ticket=&buss_id=1000014&device_id=098d061771538d551af94afdadb7e996&mac_id=BC-7F-E8-91-AD-51&uuid=mgtvmac&after_day=1&license===&net_id=&type=3&channel_id=1202&version=5.5.115.200.2.DBEI.0.0_Release
+http://47.95.172.168/channel/1215.m3u8
+#EXTINF:-1,新频道 - http://47.95.172.168/channel/1216.m3u8
+http://ott.liveapi.mgtv.com/v1/epg/turnplay/getLivePlayUrlM3u8?platform=3&definition=??&ticket=&buss_id=1000014&device_id=098d061771538d551af94afdadb7e996&mac_id=BC-7F-E8-91-AD-51&uuid=mgtvmac&after_day=1&license===&net_id=&type=3&channel_id=1216&version=5.5.115.200.2.DBEI.0.0_Release
+http://47.95.172.168/channel/1216.m3u8
+#EXTINF:-1,新频道 - http://47.95.172.168/channel/1221.m3u8
+http://ott.liveapi.mgtv.com/v1/epg/turnplay/getLivePlayUrlM3u8?platform=3&definition=??&ticket=&buss_id=1000014&device_id=098d061771538d551af94afdadb7e996&mac_id=BC-7F-E8-91-AD-51&uuid=mgtvmac&after_day=1&license===&net_id=&type=3&channel_id=1221&version=5.5.115.200.2.DBEI.0.0_Release
+http://47.95.172.168/channel/1221.m3u8
+#EXTINF:-1,新频道 - http://47.95.172.168/channel/1225.m3u8
+http://ott.liveapi.mgtv.com/v1/epg/turnplay/getLivePlayUrlM3u8?platform=3&definition=??&ticket=&buss_id=1000014&device_id=098d061771538d551af94afdadb7e996&mac_id=BC-7F-E8-91-AD-51&uuid=mgtvmac&after_day=1&license===&net_id=&type=3&channel_id=1225&version=5.5.115.200.2.DBEI.0.0_Release
+http://47.95.172.168/channel/1225.m3u8
+#EXTINF:-1,新频道 - http://47.95.172.168/channel/1230.m3u8
+http://ott.liveapi.mgtv.com/v1/epg/turnplay/getLivePlayUrlM3u8?platform=3&definition=??&ticket=&buss_id=1000014&device_id=098d061771538d551af94afdadb7e996&mac_id=BC-7F-E8-91-AD-51&uuid=mgtvmac&after_day=1&license===&net_id=&type=3&channel_id=1230&version=5.5.115.200.2.DBEI.0.0_Release
+http://47.95.172.168/channel/1230.m3u8
+#EXTINF:-1,新频道 - http://47.95.172.168/channel/1234.m3u8
+http://ott.liveapi.mgtv.com/v1/epg/turnplay/getLivePlayUrlM3u8?platform=3&definition=??&ticket=&buss_id=1000014&device_id=098d061771538d551af94afdadb7e996&mac_id=BC-7F-E8-91-AD-51&uuid=mgtvmac&after_day=1&license===&net_id=&type=3&channel_id=1234&version=5.5.115.200.2.DBEI.0.0_Release
+http://47.95.172.168/channel/1234.m3u8
+#EXTINF:-1,新频道 - http://47.95.172.168/channel/1227.m3u8
+http://ott.liveapi.mgtv.com/v1/epg/turnplay/getLivePlayUrlM3u8?platform=3&definition=??&ticket=&buss_id=1000014&device_id=098d061771538d551af94afdadb7e996&mac_id=BC-7F-E8-91-AD-51&uuid=mgtvmac&after_day=1&license===&net_id=&type=3&channel_id=1227&version=5.5.115.200.2.DBEI.0.0_Release
+http://47.95.172.168/channel/1227.m3u8
+#EXTINF:-1,新频道 - http://47.95.172.168/channel/1233.m3u8
+http://ott.liveapi.mgtv.com/v1/epg/turnplay/getLivePlayUrlM3u8?platform=3&definition=??&ticket=&buss_id=1000014&device_id=098d061771538d551af94afdadb7e996&mac_id=BC-7F-E8-91-AD-51&uuid=mgtvmac&after_day=1&license===&net_id=&type=3&channel_id=1233&version=5.5.115.200.2.DBEI.0.0_Release
+http://47.95.172.168/channel/1233.m3u8
+#EXTINF:-1,新频道 - http://47.95.172.168/channel/1242.m3u8
+http://ott.liveapi.mgtv.com/v1/epg/turnplay/getLivePlayUrlM3u8?platform=3&definition=??&ticket=&buss_id=1000014&device_id=098d061771538d551af94afdadb7e996&mac_id=BC-7F-E8-91-AD-51&uuid=mgtvmac&after_day=1&license===&net_id=&type=3&channel_id=1242&version=5.5.115.200.2.DBEI.0.0_Release
+http://47.95.172.168/channel/1242.m3u8
+#EXTINF:-1,新频道 - http://47.95.172.168/channel/1243.m3u8
+http://ott.liveapi.mgtv.com/v1/epg/turnplay/getLivePlayUrlM3u8?platform=3&definition=??&ticket=&buss_id=1000014&device_id=098d061771538d551af94afdadb7e996&mac_id=BC-7F-E8-91-AD-51&uuid=mgtvmac&after_day=1&license===&net_id=&type=3&channel_id=1243&version=5.5.115.200.2.DBEI.0.0_Release
+http://47.95.172.168/channel/1243.m3u8
+#EXTINF:-1,新频道 - http://47.95.172.168/channel/1259.m3u8
+http://ott.liveapi.mgtv.com/v1/epg/turnplay/getLivePlayUrlM3u8?platform=3&definition=??&ticket=&buss_id=1000014&device_id=098d061771538d551af94afdadb7e996&mac_id=BC-7F-E8-91-AD-51&uuid=mgtvmac&after_day=1&license===&net_id=&type=3&channel_id=1259&version=5.5.115.200.2.DBEI.0.0_Release
+http://47.95.172.168/channel/1259.m3u8
+#EXTINF:-1,新频道 - http://47.95.172.168/channel/1258.m3u8
+http://ott.liveapi.mgtv.com/v1/epg/turnplay/getLivePlayUrlM3u8?platform=3&definition=??&ticket=&buss_id=1000014&device_id=098d061771538d551af94afdadb7e996&mac_id=BC-7F-E8-91-AD-51&uuid=mgtvmac&after_day=1&license===&net_id=&type=3&channel_id=1258&version=5.5.115.200.2.DBEI.0.0_Release
+http://47.95.172.168/channel/1258.m3u8
+#EXTINF:-1,新频道 - http://47.95.172.168/channel/1262.m3u8
+http://ott.liveapi.mgtv.com/v1/epg/turnplay/getLivePlayUrlM3u8?platform=3&definition=??&ticket=&buss_id=1000014&device_id=098d061771538d551af94afdadb7e996&mac_id=BC-7F-E8-91-AD-51&uuid=mgtvmac&after_day=1&license===&net_id=&type=3&channel_id=1262&version=5.5.115.200.2.DBEI.0.0_Release
+http://47.95.172.168/channel/1262.m3u8
+#EXTINF:-1,新频道 - http://47.95.172.168/channel/1266.m3u8
+http://ott.liveapi.mgtv.com/v1/epg/turnplay/getLivePlayUrlM3u8?platform=3&definition=??&ticket=&buss_id=1000014&device_id=098d061771538d551af94afdadb7e996&mac_id=BC-7F-E8-91-AD-51&uuid=mgtvmac&after_day=1&license===&net_id=&type=3&channel_id=1266&version=5.5.115.200.2.DBEI.0.0_Release
+http://47.95.172.168/channel/1266.m3u8
+#EXTINF:-1,新频道 - http://47.95.172.168/channel/1256.m3u8
+http://ott.liveapi.mgtv.com/v1/epg/turnplay/getLivePlayUrlM3u8?platform=3&definition=??&ticket=&buss_id=1000014&device_id=098d061771538d551af94afdadb7e996&mac_id=BC-7F-E8-91-AD-51&uuid=mgtvmac&after_day=1&license===&net_id=&type=3&channel_id=1256&version=5.5.115.200.2.DBEI.0.0_Release
+http://47.95.172.168/channel/1256.m3u8
+#EXTINF:-1,新频道 - http://47.95.172.168/channel/1260.m3u8
+http://ott.liveapi.mgtv.com/v1/epg/turnplay/getLivePlayUrlM3u8?platform=3&definition=??&ticket=&buss_id=1000014&device_id=098d061771538d551af94afdadb7e996&mac_id=BC-7F-E8-91-AD-51&uuid=mgtvmac&after_day=1&license===&net_id=&type=3&channel_id=1260&version=5.5.115.200.2.DBEI.0.0_Release
+http://47.95.172.168/channel/1260.m3u8
+#EXTINF:-1,新频道 - http://47.95.172.168/channel/1426.m3u8
+http://ott.liveapi.mgtv.com/v1/epg/turnplay/getLivePlayUrlM3u8?platform=3&definition=??&ticket=&buss_id=1000014&device_id=098d061771538d551af94afdadb7e996&mac_id=BC-7F-E8-91-AD-51&uuid=mgtvmac&after_day=1&license===&net_id=&type=3&channel_id=1426&version=5.5.115.200.2.DBEI.0.0_Release
+http://47.95.172.168/channel/1426.m3u8
+#EXTINF:-1,新频道 - http://47.95.172.168/channel/1428.m3u8
+http://ott.liveapi.mgtv.com/v1/epg/turnplay/getLivePlayUrlM3u8?platform=3&definition=??&ticket=&buss_id=1000014&device_id=098d061771538d551af94afdadb7e996&mac_id=BC-7F-E8-91-AD-51&uuid=mgtvmac&after_day=1&license===&net_id=&type=3&channel_id=1428&version=5.5.115.200.2.DBEI.0.0_Release
+http://47.95.172.168/channel/1428.m3u8
+#EXTINF:-1,新频道 - http://47.95.172.168/channel/1466.m3u8
+http://ott.liveapi.mgtv.com/v1/epg/turnplay/getLivePlayUrlM3u8?platform=3&definition=??&ticket=&buss_id=1000014&device_id=098d061771538d551af94afdadb7e996&mac_id=BC-7F-E8-91-AD-51&uuid=mgtvmac&after_day=1&license===&net_id=&type=3&channel_id=1466&version=5.5.115.200.2.DBEI.0.0_Release
+http://47.95.172.168/channel/1466.m3u8
+#EXTINF:-1,新频道 - http://47.95.172.168/channel/1525.m3u8
+http://ott.liveapi.mgtv.com/v1/epg/turnplay/getLivePlayUrlM3u8?platform=3&definition=??&ticket=&buss_id=1000014&device_id=098d061771538d551af94afdadb7e996&mac_id=BC-7F-E8-91-AD-51&uuid=mgtvmac&after_day=1&license===&net_id=&type=3&channel_id=1525&version=5.5.115.200.2.DBEI.0.0_Release
+http://47.95.172.168/channel/1525.m3u8
+#EXTINF:-1,新频道 - http://47.95.172.168/channel/1524.m3u8
+http://ott.liveapi.mgtv.com/v1/epg/turnplay/getLivePlayUrlM3u8?platform=3&definition=??&ticket=&buss_id=1000014&device_id=098d061771538d551af94afdadb7e996&mac_id=BC-7F-E8-91-AD-51&uuid=mgtvmac&after_day=1&license===&net_id=&type=3&channel_id=1524&version=5.5.115.200.2.DBEI.0.0_Release
+http://47.95.172.168/channel/1524.m3u8
+#EXTINF:-1,新频道 - http://47.95.172.168/channel/1526.m3u8
+http://ott.liveapi.mgtv.com/v1/epg/turnplay/getLivePlayUrlM3u8?platform=3&definition=??&ticket=&buss_id=1000014&device_id=098d061771538d551af94afdadb7e996&mac_id=BC-7F-E8-91-AD-51&uuid=mgtvmac&after_day=1&license===&net_id=&type=3&channel_id=1526&version=5.5.115.200.2.DBEI.0.0_Release
+http://47.95.172.168/channel/1526.m3u8
+#EXTINF:-1,新频道 - http://47.95.172.168/channel/1546.m3u8
+http://ott.liveapi.mgtv.com/v1/epg/turnplay/getLivePlayUrlM3u8?platform=3&definition=??&ticket=&buss_id=1000014&device_id=098d061771538d551af94afdadb7e996&mac_id=BC-7F-E8-91-AD-51&uuid=mgtvmac&after_day=1&license===&net_id=&type=3&channel_id=1546&version=5.5.115.200.2.DBEI.0.0_Release
+http://47.95.172.168/channel/1546.m3u8
+#EXTINF:-1,新频道 - http://47.95.172.168/channel/1569.m3u8
+http://ott.liveapi.mgtv.com/v1/epg/turnplay/getLivePlayUrlM3u8?platform=3&definition=??&ticket=&buss_id=1000014&device_id=098d061771538d551af94afdadb7e996&mac_id=BC-7F-E8-91-AD-51&uuid=mgtvmac&after_day=1&license===&net_id=&type=3&channel_id=1569&version=5.5.115.200.2.DBEI.0.0_Release
+http://47.95.172.168/channel/1569.m3u8
+#EXTINF:-1,新频道 - http://47.95.172.168/channel/1552.m3u8
+http://ott.liveapi.mgtv.com/v1/epg/turnplay/getLivePlayUrlM3u8?platform=3&definition=??&ticket=&buss_id=1000014&device_id=098d061771538d551af94afdadb7e996&mac_id=BC-7F-E8-91-AD-51&uuid=mgtvmac&after_day=1&license===&net_id=&type=3&channel_id=1552&version=5.5.115.200.2.DBEI.0.0_Release
+http://47.95.172.168/channel/1552.m3u8
+#EXTINF:-1,新频道 - http://47.95.172.168/channel/1576.m3u8
+http://ott.liveapi.mgtv.com/v1/epg/turnplay/getLivePlayUrlM3u8?platform=3&definition=??&ticket=&buss_id=1000014&device_id=098d061771538d551af94afdadb7e996&mac_id=BC-7F-E8-91-AD-51&uuid=mgtvmac&after_day=1&license===&net_id=&type=3&channel_id=1576&version=5.5.115.200.2.DBEI.0.0_Release
+http://47.95.172.168/channel/1576.m3u8
+#EXTINF:-1,新频道 - http://47.95.172.168/channel/1578.m3u8
+http://ott.liveapi.mgtv.com/v1/epg/turnplay/getLivePlayUrlM3u8?platform=3&definition=??&ticket=&buss_id=1000014&device_id=098d061771538d551af94afdadb7e996&mac_id=BC-7F-E8-91-AD-51&uuid=mgtvmac&after_day=1&license===&net_id=&type=3&channel_id=1578&version=5.5.115.200.2.DBEI.0.0_Release
+http://47.95.172.168/channel/1578.m3u8
+#EXTINF:-1,新频道 - http://47.95.172.168/channel/1565.m3u8
+http://ott.liveapi.mgtv.com/v1/epg/turnplay/getLivePlayUrlM3u8?platform=3&definition=??&ticket=&buss_id=1000014&device_id=098d061771538d551af94afdadb7e996&mac_id=BC-7F-E8-91-AD-51&uuid=mgtvmac&after_day=1&license===&net_id=&type=3&channel_id=1565&version=5.5.115.200.2.DBEI.0.0_Release
+http://47.95.172.168/channel/1565.m3u8
+#EXTINF:-1,新频道 - http://47.95.172.168/channel/1612.m3u8
+http://ott.liveapi.mgtv.com/v1/epg/turnplay/getLivePlayUrlM3u8?platform=3&definition=??&ticket=&buss_id=1000014&device_id=098d061771538d551af94afdadb7e996&mac_id=BC-7F-E8-91-AD-51&uuid=mgtvmac&after_day=1&license===&net_id=&type=3&channel_id=1612&version=5.5.115.200.2.DBEI.0.0_Release
+http://47.95.172.168/channel/1612.m3u8
+#EXTINF:-1,新频道 - http://47.95.172.168/channel/1652.m3u8
+http://ott.liveapi.mgtv.com/v1/epg/turnplay/getLivePlayUrlM3u8?platform=3&definition=??&ticket=&buss_id=1000014&device_id=098d061771538d551af94afdadb7e996&mac_id=BC-7F-E8-91-AD-51&uuid=mgtvmac&after_day=1&license===&net_id=&type=3&channel_id=1652&version=5.5.115.200.2.DBEI.0.0_Release
+http://47.95.172.168/channel/1652.m3u8
+#EXTINF:-1,新频道 - http://47.95.172.168/channel/1654.m3u8
+http://ott.liveapi.mgtv.com/v1/epg/turnplay/getLivePlayUrlM3u8?platform=3&definition=??&ticket=&buss_id=1000014&device_id=098d061771538d551af94afdadb7e996&mac_id=BC-7F-E8-91-AD-51&uuid=mgtvmac&after_day=1&license===&net_id=&type=3&channel_id=1654&version=5.5.115.200.2.DBEI.0.0_Release
+http://47.95.172.168/channel/1654.m3u8
+#EXTINF:-1,新频道 - http://47.95.172.168/channel/1653.m3u8
+http://ott.liveapi.mgtv.com/v1/epg/turnplay/getLivePlayUrlM3u8?platform=3&definition=??&ticket=&buss_id=1000014&device_id=098d061771538d551af94afdadb7e996&mac_id=BC-7F-E8-91-AD-51&uuid=mgtvmac&after_day=1&license===&net_id=&type=3&channel_id=1653&version=5.5.115.200.2.DBEI.0.0_Release
+http://47.95.172.168/channel/1653.m3u8
+#EXTINF:-1,新频道 - http://47.95.172.168/channel/1701.m3u8
+http://ott.liveapi.mgtv.com/v1/epg/turnplay/getLivePlayUrlM3u8?platform=3&definition=??&ticket=&buss_id=1000014&device_id=098d061771538d551af94afdadb7e996&mac_id=BC-7F-E8-91-AD-51&uuid=mgtvmac&after_day=1&license===&net_id=&type=3&channel_id=1701&version=5.5.115.200.2.DBEI.0.0_Release
+http://47.95.172.168/channel/1701.m3u8
+#EXTINF:-1,新频道 - http://47.95.172.168/channel/1741.m3u8
+http://ott.liveapi.mgtv.com/v1/epg/turnplay/getLivePlayUrlM3u8?platform=3&definition=??&ticket=&buss_id=1000014&device_id=098d061771538d551af94afdadb7e996&mac_id=BC-7F-E8-91-AD-51&uuid=mgtvmac&after_day=1&license===&net_id=&type=3&channel_id=1741&version=5.5.115.200.2.DBEI.0.0_Release
+http://47.95.172.168/channel/1741.m3u8
+#EXTINF:-1,新频道 - http://47.95.172.168/channel/1795.m3u8
+http://ott.liveapi.mgtv.com/v1/epg/turnplay/getLivePlayUrlM3u8?platform=3&definition=??&ticket=&buss_id=1000014&device_id=098d061771538d551af94afdadb7e996&mac_id=BC-7F-E8-91-AD-51&uuid=mgtvmac&after_day=1&license===&net_id=&type=3&channel_id=1795&version=5.5.115.200.2.DBEI.0.0_Release
+http://47.95.172.168/channel/1795.m3u8
+#EXTINF:-1,新频道 - http://47.95.172.168/channel/1804.m3u8
+http://ott.liveapi.mgtv.com/v1/epg/turnplay/getLivePlayUrlM3u8?platform=3&definition=??&ticket=&buss_id=1000014&device_id=098d061771538d551af94afdadb7e996&mac_id=BC-7F-E8-91-AD-51&uuid=mgtvmac&after_day=1&license===&net_id=&type=3&channel_id=1795&version=5.5.115.200.2.DBEI.0.0_Release
+http://47.95.172.168/channel/1804.m3u8
+#EXTINF:-1,新频道 - http://47.95.172.168/channel/1812.m3u8
+http://47.95.172.168/channel/1812.m3u8
+#EXTINF:-1,新频道 - http://47.95.172.168/channel/1821.m3u8
+http://47.95.172.168/channel/1821.m3u8
+#EXTINF:-1,新频道 - http://47.95.172.168/channel/1820.m3u8
+http://47.95.172.168/channel/1820.m3u8
+#EXTINF:-1,新频道 - http://47.95.172.168/channel/1823.m3u8
+http://47.95.172.168/channel/1823.m3u8
+#EXTINF:-1,新频道 - http://47.95.172.168/channel/1838.m3u8
+http://47.95.172.168/channel/1838.m3u8
+#EXTINF:-1,新频道 - http://47.95.172.168/channel/1843.m3u8
+http://47.95.172.168/channel/1843.m3u8
+#EXTINF:-1,新频道 - http://47.95.172.168/channel/1846.m3u8
+http://47.95.172.168/channel/1846.m3u8
+#EXTINF:-1,新频道 - http://47.95.172.168/channel/1869.m3u8
+http://47.95.172.168/channel/1869.m3u8
+#EXTINF:-1,新频道 - http://47.95.172.168/channel/1860.m3u8
+http://47.95.172.168/channel/1860.m3u8
+#EXTINF:-1,新频道 - http://47.95.172.168/channel/1880.m3u8
+http://47.95.172.168/channel/1880.m3u8
+#EXTINF:-1,新频道 - http://47.95.172.168/channel/1901.m3u8
+http://47.95.172.168/channel/1901.m3u8
+#EXTINF:-1,新频道 - http://47.95.172.168/channel/1918.m3u8
+http://47.95.172.168/channel/1918.m3u8
+#EXTINF:-1,新频道 - http://47.95.172.168/channel/1926.m3u8
+http://47.95.172.168/channel/1926.m3u8
+#EXTINF:-1,新频道 - http://47.95.172.168/channel/1911.m3u8
+http://47.95.172.168/channel/1911.m3u8
+#EXTINF:-1,新频道 - http://47.95.172.168/channel/1913.m3u8
+http://47.95.172.168/channel/1913.m3u8
+#EXTINF:-1,新频道 - http://47.95.172.168/channel/1936.m3u8
+http://47.95.172.168/channel/1936.m3u8
+#EXTINF:-1,新频道 - http://47.95.172.168/channel/1937.m3u8
+http://47.95.172.168/channel/1937.m3u8
+#EXTINF:-1,新频道 - http://47.95.172.168/channel/1940.m3u8
+http://47.95.172.168/channel/1940.m3u8
+#EXTINF:-1,新频道 - http://47.95.172.168/channel/1938.m3u8
+http://47.95.172.168/channel/1938.m3u8
+#EXTINF:-1,新频道 - http://47.95.172.168/channel/1951.m3u8
+http://47.95.172.168/channel/1951.m3u8
+#EXTINF:-1,新频道 - http://47.95.172.168/channel/1952.m3u8
+http://47.95.172.168/channel/1952.m3u8
+#EXTINF:-1,新频道 - http://47.95.172.168/channel/1993.m3u8
+http://47.95.172.168/channel/1993.m3u8
+#EXTINF:-1,新频道 - http://47.95.172.168/channel/1995.m3u8
+http://47.95.172.168/channel/1995.m3u8
+#EXTINF:-1,新频道 - http://47.95.172.168/channel/2008.m3u8
+http://47.95.172.168/channel/2008.m3u8
+#EXTINF:-1,新频道 - http://47.95.172.168/channel/2023.m3u8
+http://47.95.172.168/channel/2023.m3u8
+#EXTINF:-1,新频道 - http://47.95.172.168/channel/2020.m3u8
+http://47.95.172.168/channel/2020.m3u8
+#EXTINF:-1,新频道 - http://47.95.172.168/channel/2046.m3u8
+http://47.95.172.168/channel/2046.m3u8
+#EXTINF:-1,新频道 - http://47.95.172.168/channel/2048.m3u8
+http://47.95.172.168/channel/2048.m3u8
+#EXTINF:-1,新频道 - http://47.95.172.168/channel/2057.m3u8
+http://47.95.172.168/channel/2057.m3u8
+#EXTINF:-1,新频道 - http://47.95.172.168/channel/2050.m3u8
+http://47.95.172.168/channel/2050.m3u8
+#EXTINF:-1,新频道 - http://47.95.172.168/channel/2063.m3u8
+http://47.95.172.168/channel/2063.m3u8
+#EXTINF:-1,新频道 - http://47.95.172.168/channel/2081.m3u8
+http://47.95.172.168/channel/2081.m3u8
+#EXTINF:-1,新频道 - http://47.95.172.168/channel/2085.m3u8
+http://47.95.172.168/channel/2085.m3u8
+#EXTINF:-1,新频道 - http://47.95.172.168/channel/2118.m3u8
+http://47.95.172.168/channel/2118.m3u8
+#EXTINF:-1,新频道 - http://47.95.172.168/channel/2159.m3u8
+http://47.95.172.168/channel/2159.m3u8
+#EXTINF:-1,新频道 - http://47.95.172.168/channel/2154.m3u8
+http://47.95.172.168/channel/2154.m3u8
+#EXTINF:-1,新频道 - http://47.95.172.168/channel/2158.m3u8
+http://47.95.172.168/channel/2158.m3u8
+#EXTINF:-1,新频道 - http://47.95.172.168/channel/2174.m3u8
+http://47.95.172.168/channel/2174.m3u8
+#EXTINF:-1,新频道 - http://47.95.172.168/channel/2181.m3u8
+http://47.95.172.168/channel/2181.m3u8
+#EXTINF:-1,新频道 - http://47.95.172.168/channel/2182.m3u8
+http://47.95.172.168/channel/2182.m3u8
+#EXTINF:-1,新频道 - http://47.95.172.168/channel/2180.m3u8
+http://47.95.172.168/channel/2180.m3u8
+#EXTINF:-1,新频道 - http://47.95.172.168/channel/2183.m3u8
+http://47.95.172.168/channel/2183.m3u8
+#EXTINF:-1,新频道 - http://47.95.172.168/channel/2190.m3u8
+http://47.95.172.168/channel/2190.m3u8
+#EXTINF:-1,新频道 - http://47.95.172.168/channel/2195.m3u8
+http://47.95.172.168/channel/2195.m3u8
+#EXTINF:-1,新频道 - http://47.95.172.168/channel/2201.m3u8
+http://47.95.172.168/channel/2201.m3u8
+#EXTINF:-1,新频道 - http://47.95.172.168/channel/2198.m3u8
+http://47.95.172.168/channel/2198.m3u8
+#EXTINF:-1,新频道 - http://47.95.172.168/channel/2211.m3u8
+http://47.95.172.168/channel/2211.m3u8
+#EXTINF:-1,新频道 - http://47.95.172.168/channel/2215.m3u8
+http://47.95.172.168/channel/2215.m3u8
+#EXTINF:-1,新频道 - http://47.95.172.168/channel/2221.m3u8
+http://47.95.172.168/channel/2221.m3u8
+#EXTINF:-1,新频道 - http://47.95.172.168/channel/2223.m3u8
+http://47.95.172.168/channel/2223.m3u8
+#EXTINF:-1,新频道 - http://47.95.172.168/channel/2230.m3u8
+http://47.95.172.168/channel/2230.m3u8
+#EXTINF:-1,新频道 - http://47.95.172.168/channel/2270.m3u8
+http://47.95.172.168/channel/2270.m3u8
+#EXTINF:-1,新频道 - http://47.95.172.168/channel/2275.m3u8
+http://47.95.172.168/channel/2275.m3u8
+#EXTINF:-1,新频道 - http://47.95.172.168/channel/2259.m3u8
+http://47.95.172.168/channel/2259.m3u8
+#EXTINF:-1,新频道 - http://47.95.172.168/channel/2263.m3u8
+http://47.95.172.168/channel/2263.m3u8
+#EXTINF:-1,新频道 - http://47.95.172.168/channel/2274.m3u8
+http://47.95.172.168/channel/2274.m3u8
+#EXTINF:-1,新频道 - http://47.95.172.168/channel/2278.m3u8
+http://47.95.172.168/channel/2278.m3u8
+#EXTINF:-1,新频道 - http://47.95.172.168/channel/2284.m3u8
+http://47.95.172.168/channel/2284.m3u8
+#EXTINF:-1,新频道 - http://47.95.172.168/channel/2277.m3u8
+http://47.95.172.168/channel/2277.m3u8
+#EXTINF:-1,新频道 - http://47.95.172.168/channel/2285.m3u8
+http://47.95.172.168/channel/2285.m3u8
+#EXTINF:-1,新频道 - http://47.95.172.168/channel/2288.m3u8
+http://47.95.172.168/channel/2288.m3u8
+#EXTINF:-1,新频道 - http://47.95.172.168/channel/2289.m3u8
+http://47.95.172.168/channel/2289.m3u8
+#EXTINF:-1,新频道 - http://47.95.172.168/channel/2296.m3u8
+http://47.95.172.168/channel/2296.m3u8
+#EXTINF:-1,新频道 - http://47.95.172.168/channel/2301.m3u8
+http://47.95.172.168/channel/2301.m3u8
+#EXTINF:-1,新频道 - http://47.95.172.168/channel/2302.m3u8
+http://47.95.172.168/channel/2302.m3u8
+#EXTINF:-1,新频道 - http://47.95.172.168/channel/2318.m3u8
+http://47.95.172.168/channel/2318.m3u8
+#EXTINF:-1,新频道 - http://47.95.172.168/channel/2331.m3u8
+http://47.95.172.168/channel/2331.m3u8
+#EXTINF:-1,新频道 - http://47.95.172.168/channel/2321.m3u8
+http://47.95.172.168/channel/2321.m3u8
+#EXTINF:-1,新频道 - http://47.95.172.168/channel/2345.m3u8
+http://47.95.172.168/channel/2345.m3u8
+#EXTINF:-1,新频道 - http://47.95.172.168/channel/2370.m3u8
+http://47.95.172.168/channel/2370.m3u8
+#EXTINF:-1,新频道 - http://47.95.172.168/channel/2361.m3u8
+http://47.95.172.168/channel/2361.m3u8
+#EXTINF:-1,新频道 - http://47.95.172.168/channel/2380.m3u8
+http://47.95.172.168/channel/2380.m3u8
+#EXTINF:-1,新频道 - http://47.95.172.168/channel/2399.m3u8
+http://47.95.172.168/channel/2399.m3u8
+#EXTINF:-1,新频道 - http://47.95.172.168/channel/2387.m3u8
+http://47.95.172.168/channel/2387.m3u8
+#EXTINF:-1,新频道 - http://47.95.172.168/channel/2410.m3u8
+http://47.95.172.168/channel/2410.m3u8
+#EXTINF:-1,新频道 - http://47.95.172.168/channel/2418.m3u8
+http://47.95.172.168/channel/2418.m3u8
+#EXTINF:-1,新频道 - http://47.95.172.168/channel/2407.m3u8
+http://47.95.172.168/channel/2407.m3u8
+#EXTINF:-1,新频道 - http://47.95.172.168/channel/2429.m3u8
+http://47.95.172.168/channel/2429.m3u8
+#EXTINF:-1,新频道 - http://47.95.172.168/channel/2421.m3u8
+http://47.95.172.168/channel/2421.m3u8
+#EXTINF:-1,新频道 - http://47.95.172.168/channel/2441.m3u8
+http://47.95.172.168/channel/2441.m3u8
+#EXTINF:-1,新频道 - http://47.95.172.168/channel/2444.m3u8
+http://47.95.172.168/channel/2444.m3u8
+#EXTINF:-1,新频道 - http://47.95.172.168/channel/2437.m3u8
+http://47.95.172.168/channel/2437.m3u8
+#EXTINF:-1,新频道 - http://47.95.172.168/channel/2447.m3u8
+http://47.95.172.168/channel/2447.m3u8
+#EXTINF:-1,新频道 - http://47.95.172.168/channel/2456.m3u8
+http://47.95.172.168/channel/2456.m3u8
+#EXTINF:-1,新频道 - http://47.95.172.168/channel/2461.m3u8
+http://47.95.172.168/channel/2461.m3u8
+#EXTINF:-1,新频道 - http://47.95.172.168/channel/2463.m3u8
+http://47.95.172.168/channel/2463.m3u8
+#EXTINF:-1,新频道 - http://47.95.172.168/channel/2473.m3u8
+http://47.95.172.168/channel/2473.m3u8
+#EXTINF:-1,新频道 - http://47.95.172.168/channel/2476.m3u8
+http://47.95.172.168/channel/2476.m3u8
+#EXTINF:-1,新频道 - http://47.95.172.168/channel/2499.m3u8
+http://47.95.172.168/channel/2499.m3u8
+#EXTINF:-1,新频道 - http://47.95.172.168/channel/2501.m3u8
+http://47.95.172.168/channel/2501.m3u8
+#EXTINF:-1,新频道 - http://47.95.172.168/channel/2506.m3u8
+http://47.95.172.168/channel/2506.m3u8
+#EXTINF:-1,新频道 - http://47.95.172.168/channel/2487.m3u8
+http://47.95.172.168/channel/2487.m3u8
+#EXTINF:-1,新频道 - http://47.95.172.168/channel/2510.m3u8
+http://47.95.172.168/channel/2510.m3u8
+#EXTINF:-1,新频道 - http://47.95.172.168/channel/2507.m3u8
+http://47.95.172.168/channel/2507.m3u8
+#EXTINF:-1,新频道 - http://47.95.172.168/channel/2508.m3u8
+http://47.95.172.168/channel/2508.m3u8
+#EXTINF:-1,新频道 - http://47.95.172.168/channel/2518.m3u8
+http://47.95.172.168/channel/2518.m3u8
+#EXTINF:-1,新频道 - http://47.95.172.168/channel/2520.m3u8
+http://47.95.172.168/channel/2520.m3u8
+#EXTINF:-1,新频道 - http://47.95.172.168/channel/2537.m3u8
+http://47.95.172.168/channel/2537.m3u8
+#EXTINF:-1,新频道 - http://47.95.172.168/channel/2535.m3u8
+http://47.95.172.168/channel/2535.m3u8
+#EXTINF:-1,新频道 - http://47.95.172.168/channel/2555.m3u8
+http://47.95.172.168/channel/2555.m3u8
+#EXTINF:-1,新频道 - http://47.95.172.168/channel/2559.m3u8
+http://47.95.172.168/channel/2559.m3u8
+#EXTINF:-1,新频道 - http://47.95.172.168/channel/2545.m3u8
+http://47.95.172.168/channel/2545.m3u8
+#EXTINF:-1,新频道 - http://47.95.172.168/channel/2554.m3u8
+http://47.95.172.168/channel/2554.m3u8
+#EXTINF:-1,新频道 - http://47.95.172.168/channel/2558.m3u8
+http://47.95.172.168/channel/2558.m3u8
+#EXTINF:-1,新频道 - http://47.95.172.168/channel/2560.m3u8
+http://47.95.172.168/channel/2560.m3u8
+#EXTINF:-1,新频道 - http://47.95.172.168/channel/2561.m3u8
+http://47.95.172.168/channel/2561.m3u8
+#EXTINF:-1,新频道 - http://47.95.172.168/channel/2577.m3u8
+http://47.95.172.168/channel/2577.m3u8
+#EXTINF:-1,新频道 - http://47.95.172.168/channel/2580.m3u8
+http://47.95.172.168/channel/2580.m3u8
+#EXTINF:-1,新频道 - http://47.95.172.168/channel/2576.m3u8
+http://47.95.172.168/channel/2576.m3u8
+#EXTINF:-1,新频道 - http://47.95.172.168/channel/2582.m3u8
+http://47.95.172.168/channel/2582.m3u8
+#EXTINF:-1,新频道 - http://47.95.172.168/channel/2584.m3u8
+http://47.95.172.168/channel/2584.m3u8
+#EXTINF:-1,新频道 - http://47.95.172.168/channel/2598.m3u8
+http://47.95.172.168/channel/2598.m3u8
+#EXTINF:-1,新频道 - http://47.95.172.168/channel/2593.m3u8
+http://47.95.172.168/channel/2593.m3u8
+#EXTINF:-1,新频道 - http://47.95.172.168/channel/2603.m3u8
+http://47.95.172.168/channel/2603.m3u8
+#EXTINF:-1,新频道 - http://47.95.172.168/channel/2609.m3u8
+http://47.95.172.168/channel/2609.m3u8
+#EXTINF:-1,新频道 - http://47.95.172.168/channel/2610.m3u8
+http://47.95.172.168/channel/2610.m3u8
+#EXTINF:-1,新频道 - http://47.95.172.168/channel/2599.m3u8
+http://47.95.172.168/channel/2599.m3u8
+#EXTINF:-1,新频道 - http://47.95.172.168/channel/2606.m3u8
+http://47.95.172.168/channel/2606.m3u8
+#EXTINF:-1,新频道 - http://47.95.172.168/channel/2616.m3u8
+http://47.95.172.168/channel/2616.m3u8
+#EXTINF:-1,新频道 - http://47.95.172.168/channel/2630.m3u8
+http://47.95.172.168/channel/2630.m3u8
+#EXTINF:-1,新频道 - http://47.95.172.168/channel/2628.m3u8
+http://47.95.172.168/channel/2628.m3u8
+#EXTINF:-1,新频道 - http://47.95.172.168/channel/2638.m3u8
+http://47.95.172.168/channel/2638.m3u8
+#EXTINF:-1,新频道 - http://47.95.172.168/channel/2640.m3u8
+http://47.95.172.168/channel/2640.m3u8
+#EXTINF:-1,新频道 - http://47.95.172.168/channel/2650.m3u8
+http://47.95.172.168/channel/2650.m3u8
+#EXTINF:-1,新频道 - http://47.95.172.168/channel/2642.m3u8
+http://47.95.172.168/channel/2642.m3u8
+#EXTINF:-1,新频道 - http://47.95.172.168/channel/2643.m3u8
+http://47.95.172.168/channel/2643.m3u8
+#EXTINF:-1,新频道 - http://47.95.172.168/channel/2644.m3u8
+http://47.95.172.168/channel/2644.m3u8
+#EXTINF:-1,新频道 - http://47.95.172.168/channel/2658.m3u8
+http://47.95.172.168/channel/2658.m3u8
+#EXTINF:-1,新频道 - http://47.95.172.168/channel/2646.m3u8
+http://47.95.172.168/channel/2646.m3u8
+#EXTINF:-1,新频道 - http://47.95.172.168/channel/2663.m3u8
+http://47.95.172.168/channel/2663.m3u8
+#EXTINF:-1,新频道 - http://47.95.172.168/channel/2664.m3u8
+http://47.95.172.168/channel/2664.m3u8
+#EXTINF:-1,新频道 - http://47.95.172.168/channel/2666.m3u8
+http://47.95.172.168/channel/2666.m3u8
+#EXTINF:-1,新频道 - http://47.95.172.168/channel/2671.m3u8
+http://47.95.172.168/channel/2671.m3u8
+#EXTINF:-1,新频道 - http://47.95.172.168/channel/2667.m3u8
+http://47.95.172.168/channel/2667.m3u8
+#EXTINF:-1,新频道 - http://47.95.172.168/channel/2682.m3u8
+http://47.95.172.168/channel/2682.m3u8
+#EXTINF:-1,新频道 - http://47.95.172.168/channel/2683.m3u8
+http://47.95.172.168/channel/2683.m3u8
+#EXTINF:-1,新频道 - http://47.95.172.168/channel/2685.m3u8
+http://47.95.172.168/channel/2685.m3u8
+#EXTINF:-1,新频道 - http://47.95.172.168/channel/2691.m3u8
+http://47.95.172.168/channel/2691.m3u8
+#EXTINF:-1,新频道 - http://47.95.172.168/channel/2694.m3u8
+http://47.95.172.168/channel/2694.m3u8
+#EXTINF:-1,新频道 - http://47.95.172.168/channel/2703.m3u8
+http://47.95.172.168/channel/2703.m3u8
+#EXTINF:-1,新频道 - http://47.95.172.168/channel/2713.m3u8
+http://47.95.172.168/channel/2713.m3u8
+#EXTINF:-1,新频道 - http://47.95.172.168/channel/2714.m3u8
+http://47.95.172.168/channel/2714.m3u8
+#EXTINF:-1,新频道 - http://47.95.172.168/channel/2716.m3u8
+http://47.95.172.168/channel/2716.m3u8
+#EXTINF:-1,新频道 - http://47.95.172.168/channel/2722.m3u8
+http://47.95.172.168/channel/2722.m3u8
+#EXTINF:-1,新频道 - http://47.95.172.168/channel/2721.m3u8
+http://47.95.172.168/channel/2721.m3u8
+#EXTINF:-1,新频道 - http://47.95.172.168/channel/2710.m3u8
+http://47.95.172.168/channel/2710.m3u8
+#EXTINF:-1,新频道 - http://47.95.172.168/channel/2711.m3u8
+http://47.95.172.168/channel/2711.m3u8
+#EXTINF:-1,新频道 - http://47.95.172.168/channel/2720.m3u8
+http://47.95.172.168/channel/2720.m3u8
+#EXTINF:-1,新频道 - http://47.95.172.168/channel/2719.m3u8
+http://47.95.172.168/channel/2719.m3u8
+#EXTINF:-1,新频道 - http://47.95.172.168/channel/2728.m3u8
+http://47.95.172.168/channel/2728.m3u8
+#EXTINF:-1,新频道 - http://47.95.172.168/channel/2731.m3u8
+http://47.95.172.168/channel/2731.m3u8
+#EXTINF:-1,新频道 - http://47.95.172.168/channel/2738.m3u8
+http://47.95.172.168/channel/2738.m3u8
+#EXTINF:-1,新频道 - http://47.95.172.168/channel/2749.m3u8
+http://47.95.172.168/channel/2749.m3u8
+#EXTINF:-1,新频道 - http://47.95.172.168/channel/2740.m3u8
+http://47.95.172.168/channel/2740.m3u8
+#EXTINF:-1,新频道 - http://47.95.172.168/channel/2745.m3u8
+http://47.95.172.168/channel/2745.m3u8
+#EXTINF:-1,新频道 - http://47.95.172.168/channel/2754.m3u8
+http://47.95.172.168/channel/2754.m3u8
+#EXTINF:-1,新频道 - http://47.95.172.168/channel/2753.m3u8
+http://47.95.172.168/channel/2753.m3u8
+#EXTINF:-1,新频道 - http://47.95.172.168/channel/2755.m3u8
+http://47.95.172.168/channel/2755.m3u8
+#EXTINF:-1,新频道 - http://47.95.172.168/channel/2751.m3u8
+http://47.95.172.168/channel/2751.m3u8
+#EXTINF:-1,新频道 - http://47.95.172.168/channel/2763.m3u8
+http://47.95.172.168/channel/2763.m3u8
+#EXTINF:-1,新频道 - http://47.95.172.168/channel/2764.m3u8
+http://47.95.172.168/channel/2764.m3u8
+#EXTINF:-1,新频道 - http://47.95.172.168/channel/2761.m3u8
+http://47.95.172.168/channel/2761.m3u8
+#EXTINF:-1,新频道 - http://47.95.172.168/channel/2759.m3u8
+http://47.95.172.168/channel/2759.m3u8
+#EXTINF:-1,新频道 - http://47.95.172.168/channel/2758.m3u8
+http://47.95.172.168/channel/2758.m3u8
+#EXTINF:-1,新频道 - http://47.95.172.168/channel/2769.m3u8
+http://47.95.172.168/channel/2769.m3u8
+#EXTINF:-1,新频道 - http://47.95.172.168/channel/2775.m3u8
+http://47.95.172.168/channel/2775.m3u8
+#EXTINF:-1,新频道 - http://47.95.172.168/channel/2770.m3u8
+http://47.95.172.168/channel/2770.m3u8
+#EXTINF:-1,新频道 - http://47.95.172.168/channel/2782.m3u8
+http://47.95.172.168/channel/2782.m3u8
+#EXTINF:-1,新频道 - http://47.95.172.168/channel/2780.m3u8
+http://47.95.172.168/channel/2780.m3u8
+#EXTINF:-1,新频道 - http://47.95.172.168/channel/2783.m3u8
+http://47.95.172.168/channel/2783.m3u8
+#EXTINF:-1,新频道 - http://47.95.172.168/channel/2784.m3u8
+http://47.95.172.168/channel/2784.m3u8
+#EXTINF:-1,新频道 - http://47.95.172.168/channel/2791.m3u8
+http://47.95.172.168/channel/2791.m3u8
+#EXTINF:-1,新频道 - http://47.95.172.168/channel/2787.m3u8
+http://47.95.172.168/channel/2787.m3u8
+#EXTINF:-1,新频道 - http://47.95.172.168/channel/2793.m3u8
+http://47.95.172.168/channel/2793.m3u8
+#EXTINF:-1,新频道 - http://47.95.172.168/channel/2790.m3u8
+http://47.95.172.168/channel/2790.m3u8
+#EXTINF:-1,新频道 - http://47.95.172.168/channel/2785.m3u8
+http://47.95.172.168/channel/2785.m3u8
+#EXTINF:-1,新频道 - http://47.95.172.168/channel/2788.m3u8
+http://47.95.172.168/channel/2788.m3u8
+#EXTINF:-1,新频道 - http://47.95.172.168/channel/2796.m3u8
+http://47.95.172.168/channel/2796.m3u8
+#EXTINF:-1,新频道 - http://47.95.172.168/channel/2800.m3u8
+http://47.95.172.168/channel/2800.m3u8
+#EXTINF:-1,新频道 - http://47.95.172.168/channel/2802.m3u8
+http://47.95.172.168/channel/2802.m3u8
+#EXTINF:-1,新频道 - http://47.95.172.168/channel/2804.m3u8
+http://47.95.172.168/channel/2804.m3u8
+#EXTINF:-1,新频道 - http://47.95.172.168/channel/2803.m3u8
+http://47.95.172.168/channel/2803.m3u8
+#EXTINF:-1,新频道 - http://47.95.172.168/channel/2808.m3u8
+http://47.95.172.168/channel/2808.m3u8
+#EXTINF:-1,新频道 - http://47.95.172.168/channel/2811.m3u8
+http://47.95.172.168/channel/2811.m3u8
+#EXTINF:-1,新频道 - http://47.95.172.168/channel/2810.m3u8
+http://47.95.172.168/channel/2810.m3u8
+#EXTINF:-1,新频道 - http://47.95.172.168/channel/2807.m3u8
+http://47.95.172.168/channel/2807.m3u8
+#EXTINF:-1,新频道 - http://47.95.172.168/channel/2816.m3u8
+http://47.95.172.168/channel/2816.m3u8
+#EXTINF:-1,新频道 - http://47.95.172.168/channel/2815.m3u8
+http://47.95.172.168/channel/2815.m3u8
+#EXTINF:-1,新频道 - http://47.95.172.168/channel/2818.m3u8
+http://47.95.172.168/channel/2818.m3u8
+#EXTINF:-1,新频道 - http://47.95.172.168/channel/2821.m3u8
+http://47.95.172.168/channel/2821.m3u8
+#EXTINF:-1,新频道 - http://47.95.172.168/channel/2820.m3u8
+http://47.95.172.168/channel/2820.m3u8
+#EXTINF:-1,新频道 - http://47.95.172.168/channel/2823.m3u8
+http://47.95.172.168/channel/2823.m3u8
+#EXTINF:-1,新频道 - http://47.95.172.168/channel/2822.m3u8
+http://47.95.172.168/channel/2822.m3u8
+#EXTINF:-1,新频道 - http://47.95.172.168/channel/2830.m3u8
+http://47.95.172.168/channel/2830.m3u8
